@@ -4,4 +4,6 @@ cache/*
 web/generated_graphs/*
 web/*.lock
 TAGS
-
+config/databases.yml
+config/propel.ini
+scripts/initdb.sh

@@ -59,6 +59,7 @@ if ($sf_user->hasCredential('admin')) {
   echo '<li>' . link_to(__('Telephone Prefixes'), 'telephone_prefix/list') . '</li>'. "\n";
   echo '<li>' . link_to(__('Number Portability'), 'commercial_feature/index') . '</li>'. "\n";
   echo '<li>' . link_to(__('Rates'), 'rate/list') . '</li>'. "\n";
+  echo '<li>' . link_to(__('Rate Tests'), 'rate/tests') . '</li>'. "\n";
   echo '</ul>'. "\n";
   echo '</li>'. "\n";
 

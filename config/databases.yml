@@ -10,7 +10,7 @@ all:
       #   * scripts/initdb.sh
       #   * scripts/abilis2asterisk/abilis2asterisk.php
       #
-      database:   asterisell3
-      username:   root
-      password:   root
+      database:   asterisell3_dev
+      username:   asterisell3
+      password:   TwdTttFGAmZXW92L
       encoding:   utf8
